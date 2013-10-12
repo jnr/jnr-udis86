@@ -11,7 +11,7 @@
   <groupId>com.github.jnr</groupId>
   <artifactId>jnr-udis86</artifactId>
   <packaging>jar</packaging>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
   <name>jnr-udis86</name>
   <description>X86/X86_64 disassembler</description>
   <url>http://github.com/jnr/jnr-udis86</url>
