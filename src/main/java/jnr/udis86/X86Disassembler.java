@@ -129,8 +129,4 @@ public final class X86Disassembler {
         String ud_insn_hex(X86Disassembler ud);
         int ud_insn_len(X86Disassembler ud);
     }
-
-    public static void main(String[] args) {
-        X86Disassembler.create();
-    }
 }
