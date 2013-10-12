@@ -18,6 +18,27 @@
   <description>X86/X86_64 disassembler</description>
   <url>http://github.com/jnr/jnr-udis86</url>
 
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git@github.com:jnr/jnr-udis86.git</connection>
+    <developerConnection>scm:git:git@github.com:jnr/jnr-udis86.git</developerConnection>
+    <url>git@github.com:jnr/jnr-udis86.git</url>
+  </scm>
+
+  <developers>
+    <developer>
+      <id>wmeissner</id>
+      <name>Wayne Meissner</name>
+      <email>wmeissner@gmail.com</email>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
